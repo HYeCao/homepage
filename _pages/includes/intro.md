@@ -1,5 +1,10 @@
-I work at [the School of Computer Science](http://cs.njupt.edu.cn/) <img src='./images/logo-njuptcs.png' style='width: 6em;'> as an assistant professor and [master's supervisor](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=F4A3BD42A56170DEE0530100007FAED8) now, doing some fundamental research on reinforcement learning and multi-agent systems in the AI lab led by professor [Lei Chen (陈蕾)](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52BE22DCFE050007F01006EFE). I am also recruiting graduate students, if interested, feel free to email me at [sdyang@njupt.edu.cn](mailto:sdyang@njupt.edu.cn).
+PhD. Student, [Reasoning & Learning Group](https://cs.nju.edu.cn/rl/index.htm) \
+[Department of Computer Science and Technology](https://cs.nju.edu.cn/main.htm) \
+[National Key Laboratory for Novel Software Technology](http://keysoftlab.nju.edu.cn/) \
+[Nanjing University](https://www.nju.edu.cn/), Nanjing 210023, China \
+**Supervisor:** Professor [Yang Gao](https://cs.nju.edu.cn/gaoyang/index.htm) 
 
-I graduated from [the School of Information Science and Technology](https://sist.swjtu.edu.cn/home?lang=cn), Southwest Jiaotong University (西南交通大学信息学院) with a bachelor's degree in 2013 and from [the Department of Computer Science and Technology](https://cs.nju.edu.cn/main.htm), Nanjing University (南京大学计算机系) with a Ph.D's degree in 2020, advised by professor [Yang Gao (高阳)](https://cs.nju.edu.cn/gaoyang/index.htm).
+I am currently a first-year PhD student in [Department of Computer Science and Technology](https://cs.nju.edu.cn/main.htm) at [Nanjing University](https://www.nju.edu.cn/) and a member of [Reasoning & Learning Group](https://cs.nju.edu.cn/rl/index.htm). \
+I received my B.Eng. degree in 2020 and M.Sc. degree in 2023 both from [Northwestern Polytechnical University](https://www.nwpu.edu.cn/). In September 2023, I was admitted to study for a Ph.D. degree in Nanjing University.
 
-My research interest includes reinforcement learning, multi-agent systems and multi-armed bandits. I have published more than 10 papers <a href='https://scholar.google.com/citations?user=9YcR_ksAAAAJ&hl'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fshangdongyang%2Fshangdongyang.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences/journals such as AAAI, AAMAS, TNNLS, TCYB. 
+My current research focuses on Reinforcement Learning and eXplainable Reinforcement Learning.
