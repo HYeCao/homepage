@@ -1,25 +1,25 @@
 # main links links
 main:
-#  - title: "About Me"
-#    url: "/#about-me"
+  - title: "About Me"
+    url: "/hongyecao/#about-me"
 #
-#  - title: "News"
-#    url: "/#-news"
-#
-#  - title: "Publications"
-#    url: "/#-publications"
-#
-#  - title: "Honors and Awards"
-#    url: "/#-honors-and-awards"
-#
-#  - title: "Educations"
-#    url: "/#-educations"
-#
-#  - title: "Invited Talks"
-#    url: "/#-invited-talks"
-#
-#  - title: "Courses"
-#    url: "/#-courses"
+  - title: "News"
+    url: "/hongyecao/#-news"
+
+  - title: "Publications"
+    url: "/hongyecao/#-publications"
+
+  - title: "Honors and Awards"
+    url: "/hongyecao/#-honors-and-awards"
+
+  - title: "Educations"
+    url: "/hongyecao/#-educations"
+
+  - title: "Invited Talks"
+    url: "/hongyecao/#-invited-talks"
+
+  - title: "Courses"
+    url: "/hongyecao/#-courses"
 
   #- title: "Internships"
   #  url: "/#-internships"
