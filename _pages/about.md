@@ -9,12 +9,12 @@ redirect_from:
 ---
 
 <span class='anchor' id='about-me'></span>
-{% include_relative includes/hongyecao/intro.md %}
+{% include_relative includes/intro.md %}
 
-{% include_relative includes/hongyecao/news.md %}
+{% include_relative includes/news.md %}
 
-{% include_relative includes/hongyecao/pub.md %}
+{% include_relative includes/pub.md %}
 
-{% include_relative includes/hongyecao/honers.md %}
+{% include_relative includes/honers.md %}
 
-{% include_relative includes/hongyecao/others.md %}
+{% include_relative includes/others.md %}
