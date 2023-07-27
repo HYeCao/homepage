@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Shangdong Yang (杨尚东) - Homepage"
-description              : "Assistant professor in the School of Computer Science. Graduating from Nanjing University. Focusing on reinforcement learning and multi-agent systems."
-repository               : "shangdongyang/shangdongyang.github.io"
+title                    : "Hongye Cao (曹宏业) - Homepage"
+description              : "Ph.D Student in Nanjing University."
+repository               : "hongyecao528/hongyecao"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Shangdong Yang"
-  avatar           : "images/android-chrome-192x192.png"
-  bio              : "Nanjing University of Posts and Telecommunications"
+  name             : "Hongye Cao"
+  avatar           : "images/chy.png"
+  bio              : "Nanjing University"
   location         : "Nanjing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=9YcR_ksAAAAJ&hl"
-  email            : "sdyang@njupt.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=84aG5JoAAAAJ&hl=zh-CN"
+  email            : "hongyecao528@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,14 +37,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "shangdongyang"
+  github           : "hongyecao528"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : "https://dblp.org/pid/178/8734.html"
+  dblp             : "https://dblp.org/pid/278/9372.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
