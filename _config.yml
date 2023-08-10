@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Hongye Cao (曹宏业) - Homepage"
 description              : "Ph.D Student in Nanjing University."
-repository               : "hongyecao528/hongyecao"
+repository               : "HYeCao/homepage"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "hongyecao528"
+  github           : "HYeCao"
   google_plus      :
   keybase          :
   instagram        :
