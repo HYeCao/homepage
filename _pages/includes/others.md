@@ -5,6 +5,6 @@
 
 
 # 💬 Reviewer
-- AAAI, ECAI, ICANN, CSUR, 软件学报.
+- AAAI, ECAI, ICANN(PC), CSUR, 软件学报.
 
 
