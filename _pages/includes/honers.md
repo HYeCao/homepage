@@ -1,4 +1,5 @@
 # 🏆 Honors and Awards
+- *2023.09*, Excellent Master's Thesis of Northwestern Polytechnical University
 - *2023.06*, Outstanding Graduates of Shaanxi Province
 - *2023.04*, Outstanding Graduate Representative of Northwestern Polytechnical University
 - *2022.11*, Northwestern Polytechnical University Graduate Model Candidate
