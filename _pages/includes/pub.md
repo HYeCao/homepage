@@ -3,7 +3,7 @@
 + **[Enhancing OOD Generalization in Offline Reinforcement Learning with Energy-Based Policy Optimization](https://hyecao.github.io/homepage/)** \
 **Hongye Cao**, Shangong Yang, Jing Huo, Xingguo Chen, Yang Gao. \
 _European Conference on Artificial Intelligence (**ECAI**)_, 2023 \
-[PDF](https://hyecao.github.io/homepage/) 
+[PDF](https://ebooks.iospress.nl/volumearticle/64220) 
 
 + **[Model-Based Offline Adaptive Policy Optimization with Episodic Memory](https://link.springer.com/chapter/10.1007/978-3-031-15931-2_5)**  \
 **Hongye Cao**, Qianru Wei, Jiangbin Zheng, Yanqing Shi. \
