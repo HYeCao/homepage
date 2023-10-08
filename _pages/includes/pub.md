@@ -1,6 +1,6 @@
 
 # 📝 Publications 
-+ **[Enhancing OOD Generalization in Offline Reinforcement Learning with Energy-Based Policy Optimization](https://hyecao.github.io/homepage/)** \
++ **[Enhancing OOD Generalization in Offline Reinforcement Learning with Energy-Based Policy Optimization](https://ebooks.iospress.nl/volumearticle/64220)** \
 **Hongye Cao**, Shangong Yang, Jing Huo, Xingguo Chen, Yang Gao. \
 _European Conference on Artificial Intelligence (**ECAI**)_, 2023 \
 [PDF](https://ebooks.iospress.nl/volumearticle/64220) 
