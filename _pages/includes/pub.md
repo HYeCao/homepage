@@ -12,7 +12,7 @@ _International Conference on Artificial Neural Networks (**ICANN**)_, 2022 \
 
 + **[Cross-Domain Reinforcement Learning for Sentiment Analysis](https://link.springer.com/chapter/10.1007/978-981-99-1645-0_53)**  \
 **Hongye Cao**, Qianru Wei, Jiangbin Zheng. \
-_International Conference on Neural Information Processing (**ICONIP**)_, 2022 \
+_International Conference on Neural Information Processing (**ICONIP**)_, 2022 (Acceptance Rate: 35%=359⁄1003) \
 [PDF](https://link.springer.com/chapter/10.1007/978-981-99-1645-0_53) | [Code](https://github.com/caohongye/CDRL) 
 
 + **[T-LBERT with Domain Adaptation for CrossDomain Sentiment Classification](https://iajit.org/portal/images/year2023/No.1/21612.pdf)**  \
