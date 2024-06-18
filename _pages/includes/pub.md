@@ -1,12 +1,12 @@
 
 # 📝 Publications 
 + **[A Survey of Interpretability Research Methods for Reinforcement Learning](https://kns.cnki.net/kcms2/article/abstract?v=vRsBqZf6Hxj0q-F8JHOPLb7HjHfBovBuOLq1DrLayWV9eJuTrexdW0Ald3NfJWqLLHEcH_cobqIuwtY5DkdTMOBqPVqEQYPYE2idOE7Pbl1jsLM9fo10botkgZuW6k7E9x3uEegDQtM=&uniplatform=NZKPT&language=CHS)** \
-**Hongye Cao**, Xiao Liu, Shaokang Dong, Shangong Yang, Jing Huo, Wenbin Li, Yang Gao. \
-_Chinese Journal of Computers, 2024 \
+**Hongye Cao**, Xiao Liu, Shaokang Dong, Shangdong Yang, Jing Huo, Wenbin Li, Yang Gao. \
+Chinese Journal of Computers, 2024 \
 [PDF](https://kns.cnki.net/kcms2/article/abstract?v=vRsBqZf6Hxj0q-F8JHOPLb7HjHfBovBuOLq1DrLayWV9eJuTrexdW0Ald3NfJWqLLHEcH_cobqIuwtY5DkdTMOBqPVqEQYPYE2idOE7Pbl1jsLM9fo10botkgZuW6k7E9x3uEegDQtM=&uniplatform=NZKPT&language=CHS) 
 
 + **[Enhancing OOD Generalization in Offline Reinforcement Learning with Energy-Based Policy Optimization](https://ebooks.iospress.nl/volumearticle/64220)** \
-**Hongye Cao**, Shangong Yang, Jing Huo, Xingguo Chen, Yang Gao. \
+**Hongye Cao**, Shangdong Yang, Jing Huo, Xingguo Chen, Yang Gao. \
 _European Conference on Artificial Intelligence (**ECAI**)_, 2023 (Acceptance Rate: 24%=391⁄1631) \
 [PDF](https://ebooks.iospress.nl/volumearticle/64220) 
 
