@@ -25,8 +25,11 @@ _International Conference on Artificial Neural Networks (**ICANN**)_, 2022 \
 _International Conference on Neural Information Processing (**ICONIP**)_, 2022 (Acceptance Rate: 35%=359⁄1003) \
 [PDF](https://link.springer.com/chapter/10.1007/978-981-99-1645-0_53) | [Code](https://github.com/caohongye/CDRL) 
 
-+ **[T-LBERT with Domain Adaptation for CrossDomain Sentiment Classification](https://iajit.org/portal/images/year2023/No.1/21612.pdf)**  \
-**Hongye Cao**, Qianru Wei, Jiangbin Zheng. \
-_The International Arab Journal of Information Technology_, 2022 \
-[PDF](https://iajit.org/portal/images/year2023/No.1/21612.pdf) | [Code](https://github.com/caohongye/NewsClassification)
+[//]: # (+ **[T-LBERT with Domain Adaptation for CrossDomain Sentiment Classification]&#40;https://iajit.org/portal/images/year2023/No.1/21612.pdf&#41;**  \)
+
+[//]: # (**Hongye Cao**, Qianru Wei, Jiangbin Zheng. \)
+
+[//]: # (_The International Arab Journal of Information Technology_, 2022 \)
+
+[//]: # ([PDF]&#40;https://iajit.org/portal/images/year2023/No.1/21612.pdf&#41; | [Code]&#40;https://github.com/caohongye/NewsClassification&#41;)
 
