@@ -4,8 +4,8 @@
 - *2016.09 - 2020.06*, Bachelor, School of Software, Northwestern Polytechnical University, Xi'an.
 
 
-# 💬 Reviewer
-- AAAI, ECAI, ICANN(PC), CSUR, 软件学报.
+[//]: # (# 💬 Reviewer)
+[//]: # (- AAAI, ECAI, ICANN&#40;PC&#41;, CSUR, 软件学报.)
 
 # 💬 Chair
 - Session Chair: ECAI 2023 [Session:Reinforcement Learning Algorithms](https://ecai2023.eu/programm)

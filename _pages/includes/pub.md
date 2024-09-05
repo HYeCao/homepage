@@ -1,9 +1,14 @@
 
 # 📝 Publications 
-+ **[A Survey of Interpretability Research Methods for Reinforcement Learning](https://kns.cnki.net/kcms2/article/abstract?v=vRsBqZf6Hxj0q-F8JHOPLb7HjHfBovBuOLq1DrLayWV9eJuTrexdW0Ald3NfJWqLLHEcH_cobqIuwtY5DkdTMOBqPVqEQYPYE2idOE7Pbl1jsLM9fo10botkgZuW6k7E9x3uEegDQtM=&uniplatform=NZKPT&language=CHS)** \
++ **[Towards Empowerment Gain through Causal Structure Learning in Model-Based RL](https://openreview.net/pdf?id=MGMYJQcdnh)** \
+**Hongye Cao**, Fan Feng, Meng Fang, Shaokang Dong, Jing Huo, Yang Gao. \
+ICML 2024 Workshop: Foundations of Reinforcement Learning and Control, 2024 \
+[PDF](https://openreview.net/pdf?id=MGMYJQcdnh) 
+
++ **[A Survey of Interpretability Research Methods for Reinforcement Learning](http://cjc.ict.ac.cn/online/onlinepaper/chy-2024729180508.pdf)** \
 **Hongye Cao**, Xiao Liu, Shaokang Dong, Shangdong Yang, Jing Huo, Wenbin Li, Yang Gao. \
 Chinese Journal of Computers, 2024 \
-[PDF](https://kns.cnki.net/kcms2/article/abstract?v=vRsBqZf6Hxj0q-F8JHOPLb7HjHfBovBuOLq1DrLayWV9eJuTrexdW0Ald3NfJWqLLHEcH_cobqIuwtY5DkdTMOBqPVqEQYPYE2idOE7Pbl1jsLM9fo10botkgZuW6k7E9x3uEegDQtM=&uniplatform=NZKPT&language=CHS) 
+[PDF](http://cjc.ict.ac.cn/online/onlinepaper/chy-2024729180508.pdf) 
 
 + **[Enhancing OOD Generalization in Offline Reinforcement Learning with Energy-Based Policy Optimization](https://ebooks.iospress.nl/volumearticle/64220)** \
 **Hongye Cao**, Shangdong Yang, Jing Huo, Xingguo Chen, Yang Gao. \
