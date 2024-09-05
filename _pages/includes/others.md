@@ -5,7 +5,7 @@
 
 
 [//]: # (# 💬 Reviewer)
-[//]: # (- AAAI, ECAI, ICANN&#40;PC&#41;, CSUR, 软件学报.)
+[//]: # (- ICANN&#40;PC&#41;, CSUR, 软件学报.)
 
 # 💬 Chair
 - Session Chair: ECAI 2023 [Session:Reinforcement Learning Algorithms](https://ecai2023.eu/programm)
