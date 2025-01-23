@@ -1,5 +1,6 @@
 # 🔥 News
-- *2024.12*: One paper on “Multi-agent reinforcement learning” is accepted by AAAI 2025.
+- *2025.01*: Two papers on “Causal reinforcement learning” is accepted by ICLR 2025.
+- *2024.12*: One paper on “Multi-agent reinforcement learning” is accepted by AAAI 2025 (Oral).
 - *2024.10*: One paper on “Bayesian Optimization” is accepted by the Journal of Software (in Chinese).
 - *2024.06*: One paper on “Causal Reinforcement Learning” is accepted by ICML 2024 Workshop: Foundations of Reinforcement Learning and Control.
 - *2024.04*: One paper on “eXplainable Reinforcement Learning” is accepted by Chinese Journal of Computers (in Chinese).
