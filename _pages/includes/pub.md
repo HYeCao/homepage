@@ -1,15 +1,15 @@
 
 # 📝 Publications 
-+ **Towards Empowerment Gain through Causal Structure Learning in Model-Based RL** \
++ **[Towards Empowerment Gain through Causal Structure Learning in Model-Based RL](https://sites.google.com/view/ecl-1429/)** \
 **Hongye Cao**, Fan Feng, Meng Fang, Shaokang Dong, Tianpei Yang, Jing Huo, and Yang Gao. \
 ICML 2024 Workshop: Foundations of Reinforcement Learning and Control, 2024 \
 ICLR (poster), 2025\
-[OpenReview](https://openreview.net/forum?id=MGMYJQcdnh&noteId=MGMYJQcdnh) 
+[OpenReview](https://openreview.net/forum?id=MGMYJQcdnh&noteId=MGMYJQcdnh) [Project Page](https://sites.google.com/view/ecl-1429/)
 
-+ **Causal Information Prioritization for Efficient Reinforcement Learning** \
++ **[Causal Information Prioritization for Efficient Reinforcement Learning](https://sites.google.com/view/rl-cip/)** \
 **Hongye Cao**, Fan Feng, Tianpei Yang, Jing Huo, and Yang Gao. \
 ICLR (poster), 2025\
-[OpenReview](https://openreview.net/forum?id=nDj45w5wam) 
+[OpenReview](https://openreview.net/forum?id=nDj45w5wam) [Project Page](https://sites.google.com/view/rl-cip/)
 
 
 + **[A Survey of Interpretability Research Methods for Reinforcement Learning](http://cjc.ict.ac.cn/online/onlinepaper/chy-2024729180508.pdf)** \
