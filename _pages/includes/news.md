@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.02*: We release one work on [Evaluating LLMs Safety](https://arxiv.org/abs/2502.11090).
 - *2025.01*: Two papers on “Causal reinforcement learning” is accepted by ICLR 2025.
 - *2024.12*: One paper on “Multi-agent reinforcement learning” is accepted by AAAI 2025 (Oral).
 - *2024.10*: One paper on “Bayesian Optimization” is accepted by the Journal of Software (in Chinese).

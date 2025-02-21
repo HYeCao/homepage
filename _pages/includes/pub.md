@@ -1,5 +1,10 @@
 
 # 📝 Publications 
++ **[SafeDialBench: A Fine-Grained Safety Benchmark for Large Language Models in Multi-Turn Dialogues with Diverse Jailbreak Attacks](https://arxiv.org/abs/2502.11090)** \
+**Hongye Cao**, Yanming Wang, Sijia Jing, Ziyue Peng, et.al. \
+arxiv, 2025\
+[Papar](https://arxiv.org/pdf/2502.11090) [GitHub](https://github.com/drivetosouth/SafeDialBench-Dataset)
+
 + **[Towards Empowerment Gain through Causal Structure Learning in Model-Based RL](https://sites.google.com/view/ecl-1429/)** \
 **Hongye Cao**, Fan Feng, Meng Fang, Shaokang Dong, Tianpei Yang, Jing Huo, and Yang Gao. \
 ICML 2024 Workshop: Foundations of Reinforcement Learning and Control, 2024 \
