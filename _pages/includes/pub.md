@@ -1,5 +1,11 @@
 
 # 📝 Publications 
++ **[Causal Action Empowerment for Efficient Reinforcement Learning in Embodied Agents](https://www.sciengine.com/SCIS/doi/10.1007/s11432-024-4396-3)** \
+**Hongye Cao**, Fan Feng, Jing Huo, and Yang Gao. \
+SCIENCE CHINA Information Sciences (SCIS), 2025\
+[Paper](https://www.sciengine.com/SCIS/doi/10.1007/s11432-024-4396-3)
+
+ 
 + **[SafeDialBench: A Fine-Grained Safety Benchmark for Large Language Models in Multi-Turn Dialogues with Diverse Jailbreak Attacks](https://arxiv.org/abs/2502.11090)** \
 **Hongye Cao**, Yanming Wang, Sijia Jing, Ziyue Peng, Zhixin Bai, Zhe Cao, Meng Fang, Fan Feng, Boyan Wang, Jiaheng Liu, Tianpei Yang, Jing Huo, Yang Gao, Fanyu Meng, Xi Yang, Chao Deng, Junlan Feng. \
 arxiv, 2025\
