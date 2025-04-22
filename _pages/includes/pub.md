@@ -3,7 +3,7 @@
 + **[Causal Action Empowerment for Efficient Reinforcement Learning in Embodied Agents](https://www.sciengine.com/SCIS/doi/10.1007/s11432-024-4396-3)** \
 **Hongye Cao**, Fan Feng, Jing Huo, and Yang Gao. \
 SCIENCE CHINA Information Sciences (SCIS), 2025\
-[Paper](https://www.sciengine.com/SCIS/doi/10.1007/s11432-024-4396-3)
+[Paper](https://www.sciengine.com/SCIS/doi/10.1007/s11432-024-4396-3) [Code](https://github.com/HYeCao/CAE)
 
  
 + **[SafeDialBench: A Fine-Grained Safety Benchmark for Large Language Models in Multi-Turn Dialogues with Diverse Jailbreak Attacks](https://arxiv.org/abs/2502.11090)** \
