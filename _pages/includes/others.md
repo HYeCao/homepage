@@ -6,9 +6,10 @@
 
 # 💬 Reviewer
 
-- ICLR-26, AAAI-26, ACL ARR, 软件学报, IEEE Transactions on Artificial Intelligence, 
-Journal of Selected Topics in Applied Earth Observations and Remote Sensing.
-
+- ICLR-26, AAAI-26, ACL ARR
+- IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Artificial Intelligence, Journal of Selected Topics in Applied Earth Observations and Remote Sensing.
+- 软件学报
+  
 # 💬 Chair
 - Session Chair: ECAI 2023 [Session:Reinforcement Learning Algorithms](https://ecai2023.eu/programm)
 
