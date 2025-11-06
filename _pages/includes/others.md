@@ -13,3 +13,6 @@
 # 💬 Chair
 - Session Chair: ECAI 2023 [Session:Reinforcement Learning Algorithms](https://ecai2023.eu/programm)
 
+# 💬 Talk
+- 2025.08, CCF-AI 
+
