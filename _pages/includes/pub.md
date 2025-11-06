@@ -1,5 +1,5 @@
 
-# 📝 Publications 
+# 📝 Selected Publications 
 + **[Causal Action Empowerment for Efficient Reinforcement Learning in Embodied Agents](https://www.sciengine.com/SCIS/doi/10.1007/s11432-024-4396-3)** \
 **Hongye Cao**, Fan Feng, Jing Huo, and Yang Gao. \
 SCIENCE CHINA Information Sciences (SCIS), 2025\
