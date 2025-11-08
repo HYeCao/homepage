@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.11*: One paper on “Causal Multi-agent reinforcement learning” is accepted by AAAI 2026.
 - *2025.11*: One paper on “Safety on Large language models” is accepted by Machine Learning.
 - *2025.11*: One paper on “Multi-agent reinforcement learning” is accepted by Neural Network.
 - *2025.04*: One paper on “Causal reinforcement learning” is accepted by SCIENCE CHINA Information Sciences (SCIS).
