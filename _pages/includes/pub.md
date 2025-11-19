@@ -6,7 +6,7 @@ T-NNLS, 2026
 
 
 + **Causality-Aware Efficient Exploration for Cooperative Multi-Agent Reinforcement Learning** \
-**Hongye Cao**, Fan Feng, Hammadi Rafik Ouariachi, Yali Du, Tianpei Yang, Meng Fang, Jing Huo, and Yang Gao. \
+**Hongye Cao**, Tianpei Yang, Fan Feng, Hammadi Rafik Ouariachi, Yali Du, Meng Fang, Jing Huo, and Yang Gao. \
 AAAI (poster), 2026
 
 + **[Causal Action Empowerment for Efficient Reinforcement Learning in Embodied Agents](https://www.sciengine.com/SCIS/doi/10.1007/s11432-024-4396-3)** \
