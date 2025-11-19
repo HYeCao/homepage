@@ -1,5 +1,10 @@
 
 # 📝 Selected Publications 
++ **Model-Based Offline Reinforcement Learning with Adversarial Data Augmentation** \
+**Hongye Cao**, Fan Feng, Jing Huo, Shangdong Yang, Meng Fang, Tianpei Yang, and Yang Gao \
+T-NNLS, 2026
+
+
 + **Causality-Aware Efficient Exploration for Cooperative Multi-Agent Reinforcement Learning** \
 **Hongye Cao**, Fan Feng, Hammadi Rafik Ouariachi, Yali Du, Tianpei Yang, Meng Fang, Jing Huo, and Yang Gao. \
 AAAI (poster), 2026
