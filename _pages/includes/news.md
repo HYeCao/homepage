@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.11*: One paper on “Multi-agent reinforcement learning” is accepted by IEEE Internet of Things Journal.
 - *2025.11*: One paper on “Offline reinforcement learning” is accepted by T-NNLS.
 - *2025.11*: One paper on “Causal Multi-agent reinforcement learning” is accepted by AAAI 2026.
 - *2025.11*: One paper on “Safety on Large language models” is accepted by Machine Learning.
