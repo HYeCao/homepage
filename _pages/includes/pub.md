@@ -1,6 +1,6 @@
 
 # 📝 Selected Publications 
-+ **Model-Based Offline Reinforcement Learning with Adversarial Data Augmentation** \
++ **[Model-Based Offline Reinforcement Learning with Adversarial Data Augmentation](https://arxiv.org/abs/2503.20285)** \
 **Hongye Cao**, Fan Feng, Jing Huo, Shangdong Yang, Meng Fang, Tianpei Yang, and Yang Gao \
 T-NNLS, 2026
 
