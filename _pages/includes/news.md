@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.12*: We release one work on [Reinforcement learning for LLMs Reasoning](https://arxiv.org/abs/2512.04359).
 - *2025.11*: One paper on “[Multi-agent reinforcement learning](https://ieeexplore.ieee.org/document/11271511)” is accepted by IEEE Internet of Things Journal.
 - *2025.11*: One paper on “Offline reinforcement learning” is accepted by T-NNLS.
 - *2025.11*: One paper on “Causal Multi-agent reinforcement learning” is accepted by AAAI 2026.
