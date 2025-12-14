@@ -1,5 +1,11 @@
 
 # 📝 Selected Publications 
++ **[Efficient Reinforcement Learning with Semantic and Token Entropy for LLM Reasoning](https://arxiv.org/abs/2512.04359)** \
+**Hongye Cao**, Zhixin Bai, Ziyue Peng, Boyan Wang, Tianpei Yang, Jing Huo, Yuyao Zhang, Yang Gao \
+arXiv, 2025 \
+[Papar](https://arxiv.org/abs/2512.04359)
+
+
 + **[Model-Based Offline Reinforcement Learning with Adversarial Data Augmentation](https://ieeexplore.ieee.org/document/11271829)** \
 **Hongye Cao**, Fan Feng, Jing Huo, Shangdong Yang, Meng Fang, Tianpei Yang, and Yang Gao \
 T-NNLS, 2026
@@ -17,7 +23,7 @@ SCIENCE CHINA Information Sciences (SCIS), 2025\
  
 + **[SafeDialBench: A Fine-Grained Safety Benchmark for Large Language Models in Multi-Turn Dialogues with Diverse Jailbreak Attacks](https://arxiv.org/abs/2502.11090)** \
 **Hongye Cao**, Yanming Wang, Sijia Jing, Ziyue Peng, Zhixin Bai, Zhe Cao, Meng Fang, Fan Feng, Boyan Wang, Jiaheng Liu, Tianpei Yang, Jing Huo, Yang Gao, Fanyu Meng, Xi Yang, Chao Deng, Junlan Feng. \
-arxiv, 2025\
+arXiv, 2025\
 [Papar](https://arxiv.org/pdf/2502.11090) [GitHub](https://github.com/drivetosouth/SafeDialBench-Dataset)
 
 + **[Towards Empowerment Gain through Causal Structure Learning in Model-Based RL](https://sites.google.com/view/ecl-1429/)** \
