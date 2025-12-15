@@ -2,6 +2,7 @@
 - *National Natural Science Foundation for Ph.D. students*: "Research and Application of Reinforcement Learning Integrating Causal Discovery"
 
 # 🏆 Honors and Awards
+- *2025.12*, Young Scientific and Technological Talents Cultivation Project Doctoral Program, China Association for Science and Technology
 - *2025.10*, National Scholarship for Graduate Students, Nanjing University
 - *2025.10*, Outstanding Scientific Research and Innovation Project, Nanjing University
 - *2023.09*, Excellent Master's Thesis of Northwestern Polytechnical University
