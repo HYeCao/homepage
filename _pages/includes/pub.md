@@ -3,7 +3,7 @@
 + **[Efficient Reinforcement Learning with Semantic and Token Entropy for LLM Reasoning](https://arxiv.org/abs/2512.04359)** \
 **Hongye Cao**, Zhixin Bai, Ziyue Peng, Boyan Wang, Tianpei Yang, Jing Huo, Yuyao Zhang, Yang Gao \
 arXiv, 2025 \
-[Papar](https://arxiv.org/abs/2512.04359)
+[Papar](https://arxiv.org/abs/2512.04359) [Code](https://github.com/zldscr0/SENT)
 
 
 + **[Model-Based Offline Reinforcement Learning with Adversarial Data Augmentation](https://ieeexplore.ieee.org/document/11271829)** \
