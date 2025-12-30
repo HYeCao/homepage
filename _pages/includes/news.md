@@ -7,7 +7,7 @@
 - *2025.11*: One paper on “Causal Multi-agent reinforcement learning” is accepted by AAAI 2026.
 - *2025.11*: One paper on “Safety on Large language models” is accepted by Machine Learning.
 - *2025.11*: One paper on “[Multi-agent reinforcement learning](https://www.sciencedirect.com/science/article/abs/pii/S0893608025011293)” is accepted by Neural Network.
-- *2025.11*: 获得2025年研究生国家奖学金.
+- *2025.10*: 获得2025年研究生国家奖学金.
 - *2025.04*: One paper on “Causal reinforcement learning” is accepted by SCIENCE CHINA Information Sciences (SCIS).
 - *2025.02*: We release one work on [Evaluating LLMs Safety](https://arxiv.org/abs/2502.11090).
 - *2025.01*: Two papers on “Causal reinforcement learning” are accepted by ICLR 2025.
