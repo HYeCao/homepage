@@ -1,5 +1,5 @@
 # 🔥 News
-- *2025.12*: 入选2025年中国科协青年科技人才培育工程博士生专项计划.
+- *2025.12*: 入选2025年中国科协青年科技人才培育工程博士生专项计划 (托举学会: 中国计算机学会).
 - *2025.12*: We release one work on [Reinforcement learning for LLMs Reasoning](https://arxiv.org/abs/2512.04359).
 - *2025.12*: 获得2025年度国家自然科学基金青年学生基础研究项目(博士研究生)资助.
 - *2025.11*: One paper on “[Multi-agent reinforcement learning](https://ieeexplore.ieee.org/document/11271511)” is accepted by IEEE Internet of Things Journal.
