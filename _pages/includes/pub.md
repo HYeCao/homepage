@@ -1,5 +1,12 @@
 
 # 📝 Selected Publications 
+
++ **[SafeDialBench: A Fine-Grained Safety Benchmark for Large Language Models in Multi-Turn Dialogues with Diverse Jailbreak Attacks](https://arxiv.org/abs/2502.11090)** \
+**Hongye Cao**, Yanming Wang, Sijia Jing, Ziyue Peng, Zhixin Bai, Zhe Cao, Meng Fang, Fan Feng, Boyan Wang, Jiaheng Liu, Tianpei Yang, Jing Huo, Yang Gao, Fanyu Meng, Xi Yang, Chao Deng, Junlan Feng. \
+ICLR, 2026\
+[Project Page](https://safedialbench.github.io/) [GitHub](https://github.com/drivetosouth/SafeDialBench-Dataset)
+
+
 + **[Efficient Reinforcement Learning with Semantic and Token Entropy for LLM Reasoning](https://arxiv.org/abs/2512.04359)** \
 **Hongye Cao**, Zhixin Bai, Ziyue Peng, Boyan Wang, Tianpei Yang, Jing Huo, Yuyao Zhang, Yang Gao \
 arXiv, 2025 \
@@ -21,10 +28,7 @@ SCIENCE CHINA Information Sciences (SCIS), 2025\
 [Paper](https://www.sciengine.com/SCIS/doi/10.1007/s11432-024-4396-3) [Code](https://github.com/HYeCao/CAE)
 
  
-+ **[SafeDialBench: A Fine-Grained Safety Benchmark for Large Language Models in Multi-Turn Dialogues with Diverse Jailbreak Attacks](https://arxiv.org/abs/2502.11090)** \
-**Hongye Cao**, Yanming Wang, Sijia Jing, Ziyue Peng, Zhixin Bai, Zhe Cao, Meng Fang, Fan Feng, Boyan Wang, Jiaheng Liu, Tianpei Yang, Jing Huo, Yang Gao, Fanyu Meng, Xi Yang, Chao Deng, Junlan Feng. \
-arXiv, 2025\
-[Papar](https://arxiv.org/pdf/2502.11090) [GitHub](https://github.com/drivetosouth/SafeDialBench-Dataset)
+
 
 + **[Towards Empowerment Gain through Causal Structure Learning in Model-Based RL](https://sites.google.com/view/ecl-1429/)** \
 **Hongye Cao**, Fan Feng, Meng Fang, Shaokang Dong, Tianpei Yang, Jing Huo, and Yang Gao. \
