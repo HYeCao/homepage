@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.01*: One paper on “[Evaluating LLMs Safety](https://arxiv.org/abs/2502.11090)” is accepted by ICLR 2026!
 - *2025.12*: 入选2025年中国科协青年科技人才培育工程博士生专项计划 (托举学会: 中国计算机学会).
 - *2025.12*: We release one work on [Reinforcement learning for LLMs Reasoning](https://arxiv.org/abs/2512.04359).
 - *2025.12*: 获得2025年度国家自然科学基金青年学生基础研究项目(博士研究生)资助.
