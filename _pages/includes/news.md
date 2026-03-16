@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.03*: Start one year visiting in PINE Lab at EEE of Nanyang Technological University, directed by Prof. [Ziwei Wang](https://ziweiwangthu.github.io/).
 - *2026.01*: One paper on “[Evaluating LLMs Safety](https://arxiv.org/abs/2502.11090)” is accepted by ICLR 2026!
 - *2025.12*: 入选2025年中国科协青年科技人才培育工程博士生专项计划 (托举学会: 中国计算机学会).
 - *2025.12*: We release one work on [Reinforcement learning for LLMs Reasoning](https://arxiv.org/abs/2512.04359).
