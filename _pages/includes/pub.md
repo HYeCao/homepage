@@ -20,7 +20,7 @@ T-NNLS, 2026
 
 + **[Causality-Aware Efficient Exploration for Cooperative Multi-Agent Reinforcement Learning](https://ojs.aaai.org/index.php/AAAI/article/view/39071/43033)** \
 **Hongye Cao**, Tianpei Yang, Fan Feng, Hammadi Rafik Ouariachi, Yali Du, Meng Fang, Jing Huo, and Yang Gao. \
-AAAI (poster), 2026
+AAAI, 2026
 
 + **[Causal Action Empowerment for Efficient Reinforcement Learning in Embodied Agents](https://www.sciengine.com/SCIS/doi/10.1007/s11432-024-4396-3)** \
 **Hongye Cao**, Fan Feng, Jing Huo, and Yang Gao. \
@@ -33,12 +33,12 @@ SCIENCE CHINA Information Sciences (SCIS), 2025\
 + **[Towards Empowerment Gain through Causal Structure Learning in Model-Based RL](https://sites.google.com/view/ecl-1429/)** \
 **Hongye Cao**, Fan Feng, Meng Fang, Shaokang Dong, Tianpei Yang, Jing Huo, and Yang Gao. \
 ICML 2024 Workshop: Foundations of Reinforcement Learning and Control, 2024 \
-ICLR (poster), 2025\
+ICLR, 2025\
 [OpenReview](https://openreview.net/forum?id=vgXI1Ws0ma&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions)) [Project Page](https://sites.google.com/view/ecl-1429/)
 
 + **[Causal Information Prioritization for Efficient Reinforcement Learning](https://sites.google.com/view/rl-cip/)** \
 **Hongye Cao**, Fan Feng, Tianpei Yang, Jing Huo, and Yang Gao. \
-ICLR (poster), 2025\
+ICLR, 2025\
 [OpenReview](https://openreview.net/forum?id=nDj45w5wam) [Project Page](https://sites.google.com/view/rl-cip/)
 
 
