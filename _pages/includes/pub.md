@@ -18,7 +18,7 @@ arXiv, 2025 \
 T-NNLS, 2026
 
 
-+ **Causality-Aware Efficient Exploration for Cooperative Multi-Agent Reinforcement Learning** \
++ **[Causality-Aware Efficient Exploration for Cooperative Multi-Agent Reinforcement Learning](https://ojs.aaai.org/index.php/AAAI/article/view/39071/43033)** \
 **Hongye Cao**, Tianpei Yang, Fan Feng, Hammadi Rafik Ouariachi, Yali Du, Meng Fang, Jing Huo, and Yang Gao. \
 AAAI (poster), 2026
 
