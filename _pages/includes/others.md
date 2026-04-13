@@ -14,5 +14,6 @@
 - Session Chair: ECAI 2023 [Session:Reinforcement Learning Algorithms](https://ecai2023.eu/programm)
 
 # 💬 Talk
-- 2025.08, CCF-AI 
+- 2026.04, [BlueDot](https://luma.com/tcdpgvs3)
+- 2025.08, CCF-AI
 
