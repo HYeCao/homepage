@@ -8,7 +8,7 @@
 - *2025.11*: One paper on “[Multi-agent reinforcement learning](https://ieeexplore.ieee.org/document/11271511)” is accepted by IEEE Internet of Things Journal.
 - *2025.11*: One paper on “Offline reinforcement learning” is accepted by T-NNLS.
 - *2025.11*: One paper on “Causal Multi-agent reinforcement learning” is accepted by AAAI 2026.
-- *2025.11*: One paper on “Safety on Large language models” is accepted by Machine Learning.
+- *2025.11*: One paper on “[Survey of Safety on Large language models](https://link.springer.com/article/10.1007/s10994-025-06930-x)” is accepted by Machine Learning.
 - *2025.11*: One paper on “[Multi-agent reinforcement learning](https://www.sciencedirect.com/science/article/abs/pii/S0893608025011293)” is accepted by Neural Network.
 - *2025.10*: 获得2025年研究生国家奖学金.
 - *2025.06*: One paper on “[Benchmarking High-Dimensional Bayesian Optimization](https://ieeexplore.ieee.org/abstract/document/11228765)” is accepted by IJCNN 2025.
