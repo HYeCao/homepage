@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.06*: One paper on “Sonar Image Generation" is accepted by Pattern Recognition.
 - *2026.05*: One paper on “Large language models safety alignment” is accepted by Machine Learning.
 - *2026.03*: Start one year visiting in PINE Lab at EEE of Nanyang Technological University, directed by Prof. [Ziwei Wang](https://ziweiwangthu.github.io/).
 - *2026.01*: One paper on “[Evaluating LLMs Safety](https://arxiv.org/abs/2502.11090)” is accepted by ICLR 2026!
