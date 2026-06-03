@@ -1,5 +1,5 @@
 # 🔥 News
-- *2026.06*: We release one work on [Agentic Reinforcement learning for LLMs Reasoning](https://arxiv.org/abs/2606.03762).
+- *2026.06*: We release one work on [Agentic Reinforcement Learning for LLMs Reasoning](https://arxiv.org/abs/2606.03762).
 - *2026.06*: One paper on “Sonar Image Generation" is accepted by Pattern Recognition.
 - *2026.05*: One paper on “Large language models safety alignment” is accepted by Machine Learning.
 - *2026.03*: Start one year visiting in PINE Lab at EEE of Nanyang Technological University, directed by Prof. [Ziwei Wang](https://ziweiwangthu.github.io/).
