@@ -1,5 +1,10 @@
 
 # 📝 Selected Publications 
++ **[Tool-Aware Optimization with Entropy Guidance for Efficient Agentic Reinforcement Learning](https://arxiv.org/abs/2606.03762)** \
+**Hongye Cao**, Nuo Yan, Haoyuan Deng, Ziwei Wang, Tianpei Yang, Jing Huo, Yuyao Zhang, Yang Gao \
+arXiv, 2026 \
+[Papar](https://arxiv.org/abs/2606.03762) [Code](https://github.com/WhyNot22222/TAO-RL)
+
 
 + **[SafeDialBench: A Fine-Grained Safety Benchmark for Large Language Models in Multi-Turn Dialogues with Diverse Jailbreak Attacks](https://arxiv.org/abs/2502.11090)** \
 **Hongye Cao**, Yanming Wang, Sijia Jing, Ziyue Peng, Zhixin Bai, Zhe Cao, Meng Fang, Fan Feng, Boyan Wang, Jiaheng Liu, Tianpei Yang, Jing Huo, Yang Gao, Fanyu Meng, Xi Yang, Chao Deng, Junlan Feng. \
