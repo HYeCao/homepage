@@ -8,22 +8,22 @@
 - *2025.12*: We release one work on [Reinforcement learning for LLMs Reasoning](https://arxiv.org/abs/2512.04359).
 - *2025.12*: 获得2025年度国家自然科学基金青年学生基础研究项目(博士研究生)资助.
 - *2025.11*: One paper on “[Multi-agent reinforcement learning](https://ieeexplore.ieee.org/document/11271511)” is accepted by IEEE Internet of Things Journal.
-- *2025.11*: One paper on “Offline reinforcement learning” is accepted by T-NNLS.
-- *2025.11*: One paper on “Causal Multi-agent reinforcement learning” is accepted by AAAI 2026.
+- *2025.11*: One paper on “[Offline reinforcement learning](https://ieeexplore.ieee.org/document/11271829)” is accepted by T-NNLS.
+- *2025.11*: One paper on “[Causal Multi-agent reinforcement learning](https://ojs.aaai.org/index.php/AAAI/article/view/39071/43033)” is accepted by AAAI 2026.
 - *2025.11*: One paper on “[Survey of Safety on Large language models](https://link.springer.com/article/10.1007/s10994-025-06930-x)” is accepted by Machine Learning.
 - *2025.11*: One paper on “[Multi-agent reinforcement learning](https://www.sciencedirect.com/science/article/abs/pii/S0893608025011293)” is accepted by Neural Network.
 - *2025.10*: 获得2025年研究生国家奖学金.
 - *2025.06*: One paper on “[Benchmarking High-Dimensional Bayesian Optimization](https://ieeexplore.ieee.org/abstract/document/11228765)” is accepted by IJCNN 2025.
-- *2025.04*: One paper on “Causal reinforcement learning” is accepted by SCIENCE CHINA Information Sciences (SCIS).
+- *2025.04*: One paper on “[Causal reinforcement learning](https://www.sciengine.com/SCIS/doi/10.1007/s11432-024-4396-3)” is accepted by SCIENCE CHINA Information Sciences (SCIS).
 - *2025.02*: We release one work on [Evaluating LLMs Safety](https://arxiv.org/abs/2502.11090).
-- *2025.01*: Two papers on “Causal reinforcement learning” are accepted by ICLR 2025.
-- *2024.12*: One paper on “Multi-agent reinforcement learning” is accepted by AAAI 2025 (Oral).
+- *2025.01*: Two papers on “[Causal reinforcement learning](https://openreview.net/forum?id=nDj45w5wam)” are accepted by ICLR 2025.
+- *2024.12*: One paper on “[Multi-agent reinforcement learning](https://ojs.aaai.org/index.php/AAAI/article/download/33794/35949)” is accepted by AAAI 2025 (Oral).
 - *2024.10*: One paper on “[Bayesian Optimization](https://www.jos.org.cn/jos/article/abstract/7304?st=search)” is accepted by the Journal of Software (in Chinese).
 - *2024.06*: One paper on “Causal Reinforcement Learning” is accepted by ICML 2024 Workshop: Foundations of Reinforcement Learning and Control.
-- *2024.04*: One paper on “eXplainable Reinforcement Learning” is accepted by Chinese Journal of Computers (in Chinese).
-- *2024.04*: One paper on “Multi-agent reinforcement learning” is accepted by the Journal of Software (in Chinese).
+- *2024.04*: One paper on “[eXplainable Reinforcement Learning](http://cjc.ict.ac.cn/online/onlinepaper/chy-2024729180508.pdf)” is accepted by Chinese Journal of Computers (in Chinese).
+- *2024.04*: One paper on “[Multi-agent reinforcement learning](http://lib.zjsru.edu.cn/25-3.24-2.pdf)” is accepted by the Journal of Software (in Chinese).
 - *2023.12*: Two papers on “Multi-agent reinforcement learning” are accepted by ICASSP 2024.
 - *2023.10*: I hosted the reinforcement learning algorithm session on ECAI-2023.
 - *2023.09*: I received the excellent master's degree thesis from Northwestern Polytechnical University.
-- *2023.07*: One paper on “Reinforcement learning” is accepted by ECAI 2023.
+- *2023.07*: One paper on “[Reinforcement learning](https://ebooks.iospress.nl/volumearticle/64220)” is accepted by ECAI 2023.
 
