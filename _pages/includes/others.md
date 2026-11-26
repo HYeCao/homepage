@@ -7,7 +7,7 @@
 # 💬 Reviewer
 
 - ICLR-27, AAMAS-27, AAAI-27, NeurIPS-26, ICML-26, ICLR-26, AAAI-26, ACL ARR
-- IEEE Transactions on Knowledge and Data Engineering, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Artificial Intelligence, Neural Network, Knowledge and Information Systems, JSTARS, Knowledge-Based Systems, AI Open.
+- IEEE Transactions on Knowledge and Data Engineering, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Artificial Intelligence, Neural Network, Knowledge and Information Systems, JSTARS, Knowledge-Based Systems, AI Open, RAL
 - 软件学报
   
 # 💬 Chair
